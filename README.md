@@ -16,4 +16,6 @@ As we have a classification problem on our hands we'll apply classification mode
 
 * Decision-Tree Classifier
 
-  Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Code: https://github.com/vidushi907/Credit-Card-Fraud-Detection/blob/main/Credit%20Card%20Fraud%20Detection.ipynb
